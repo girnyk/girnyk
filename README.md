@@ -1,4 +1,4 @@
-- Hi, I’m Max Girnyk.
+- Hi, I’m Max Girnyk
 - I’m interested in 6G mobile communication networks
 - I'm reachable at mgyr@kth.se
 
