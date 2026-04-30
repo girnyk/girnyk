@@ -1,6 +1,6 @@
 - Hi, I’m Max Girnyk
 - I’m interested in 6G mobile communication networks
-- I'm reachable at mgyr@kth.se
+- I'm reachable at guirnyk@yahoo.fr
 
 <!---
 girnyk/girnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
